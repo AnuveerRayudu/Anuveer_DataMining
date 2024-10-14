@@ -1,0 +1,1001 @@
+Transaction ID,Filtered Transaction
+TranS71,"Cigarettes, Snacks, Gum, Energy Drinks, Batteries"
+TranS72,"Snacks, Magazine"
+TranS73,"Cigarettes, Batteries, Candy, Energy Drinks"
+TranS74,Magazine
+TranS75,"Candy, Snacks, Cigarettes, Batteries, Gum"
+TranS76,"Milk, Batteries, Candy"
+TranS77,"Snacks, Magazine, Energy Drinks"
+TranS78,Magazine
+TranS79,Magazine
+TranS710,"Batteries, Milk, Toiletries, Gum"
+TranS711,"Milk, Batteries, Soft Drinks, Candy"
+TranS712,"Snacks, Gum, Candy, Toiletries"
+TranS713,"Soft Drinks, Batteries, Toiletries, Gum"
+TranS714,"Cigarettes, Snacks"
+TranS715,Milk
+TranS716,Toiletries
+TranS717,"Milk, Gum, Energy Drinks, Candy, Snacks"
+TranS718,"Milk, Magazine, Batteries"
+TranS719,"Energy Drinks, Cigarettes, Gum, Snacks"
+TranS720,"Batteries, Magazine, Energy Drinks, Gum"
+TranS721,"Snacks, Milk, Gum, Batteries, Cigarettes"
+TranS722,"Energy Drinks, Soft Drinks"
+TranS723,Gum
+TranS724,"Candy, Energy Drinks, Toiletries, Snacks, Magazine"
+TranS725,"Cigarettes, Batteries"
+TranS726,Toiletries
+TranS727,"Snacks, Milk, Soft Drinks, Magazine"
+TranS728,Magazine
+TranS729,"Gum, Soft Drinks, Candy, Cigarettes, Snacks"
+TranS730,"Cigarettes, Soft Drinks, Milk, Toiletries, Snacks"
+TranS731,"Toiletries, Energy Drinks, Batteries, Candy, Gum"
+TranS732,"Snacks, Magazine, Milk, Gum, Candy"
+TranS733,"Soft Drinks, Toiletries, Candy, Milk"
+TranS734,"Magazine, Toiletries"
+TranS735,"Gum, Cigarettes, Toiletries, Magazine, Milk"
+TranS736,Candy
+TranS737,"Gum, Cigarettes"
+TranS738,"Gum, Candy, Magazine"
+TranS739,Energy Drinks
+TranS740,"Gum, Soft Drinks, Energy Drinks, Snacks"
+TranS741,"Snacks, Toiletries, Magazine, Soft Drinks"
+TranS742,"Candy, Cigarettes"
+TranS743,Batteries
+TranS744,"Energy Drinks, Gum, Snacks, Batteries, Toiletries"
+TranS745,"Gum, Soft Drinks, Milk, Magazine, Energy Drinks"
+TranS746,"Milk, Cigarettes, Energy Drinks"
+TranS747,"Soft Drinks, Milk"
+TranS748,Cigarettes
+TranS749,"Cigarettes, Soft Drinks"
+TranS750,"Gum, Energy Drinks"
+TranS751,"Milk, Batteries, Magazine, Toiletries"
+TranS752,Magazine
+TranS753,"Batteries, Magazine"
+TranS754,"Cigarettes, Soft Drinks"
+TranS755,"Soft Drinks, Magazine"
+TranS756,"Candy, Batteries, Milk"
+TranS757,"Candy, Toiletries, Magazine"
+TranS758,Cigarettes
+TranS759,"Gum, Toiletries, Energy Drinks"
+TranS760,"Candy, Gum, Toiletries, Snacks, Batteries"
+TranS761,"Gum, Magazine, Candy"
+TranS762,"Snacks, Toiletries"
+TranS763,Magazine
+TranS764,"Milk, Gum, Batteries"
+TranS765,"Snacks, Soft Drinks"
+TranS766,"Candy, Batteries, Snacks, Gum, Magazine"
+TranS767,"Candy, Snacks, Energy Drinks, Cigarettes, Gum"
+TranS768,"Snacks, Cigarettes, Batteries, Energy Drinks"
+TranS769,Cigarettes
+TranS770,Snacks
+TranS771,"Snacks, Soft Drinks, Gum, Batteries"
+TranS772,"Candy, Cigarettes, Milk, Toiletries"
+TranS773,"Batteries, Energy Drinks, Candy"
+TranS774,Energy Drinks
+TranS775,Toiletries
+TranS776,Candy
+TranS777,"Candy, Snacks, Cigarettes, Toiletries, Milk"
+TranS778,"Energy Drinks, Milk, Toiletries"
+TranS779,"Batteries, Energy Drinks"
+TranS780,"Milk, Cigarettes, Gum, Magazine, Batteries"
+TranS781,"Toiletries, Cigarettes, Energy Drinks, Snacks"
+TranS782,"Snacks, Soft Drinks, Toiletries, Milk, Batteries"
+TranS783,"Cigarettes, Magazine, Energy Drinks"
+TranS784,"Energy Drinks, Cigarettes, Batteries, Candy, Snacks"
+TranS785,"Milk, Soft Drinks, Candy"
+TranS786,"Gum, Magazine"
+TranS787,"Candy, Soft Drinks, Batteries"
+TranS788,"Milk, Energy Drinks, Batteries"
+TranS789,"Snacks, Toiletries"
+TranS790,"Cigarettes, Energy Drinks, Candy, Milk"
+TranS791,"Snacks, Candy, Soft Drinks"
+TranS792,"Toiletries, Energy Drinks, Milk"
+TranS793,Batteries
+TranS794,"Candy, Snacks, Magazine, Cigarettes"
+TranS795,"Soft Drinks, Cigarettes, Magazine, Gum"
+TranS796,"Magazine, Milk, Energy Drinks"
+TranS797,"Soft Drinks, Batteries"
+TranS798,"Energy Drinks, Milk, Magazine"
+TranS799,"Milk, Batteries, Gum, Toiletries"
+TranS7100,"Batteries, Gum, Milk, Toiletries, Soft Drinks"
+TranS7101,Energy Drinks
+TranS7102,"Soft Drinks, Magazine, Toiletries, Cigarettes, Candy"
+TranS7103,"Snacks, Milk, Cigarettes"
+TranS7104,"Cigarettes, Gum, Snacks, Toiletries"
+TranS7105,"Gum, Energy Drinks, Candy, Toiletries, Magazine"
+TranS7106,"Batteries, Cigarettes"
+TranS7107,Toiletries
+TranS7108,"Soft Drinks, Magazine, Milk"
+TranS7109,"Magazine, Snacks"
+TranS7110,Snacks
+TranS7111,Soft Drinks
+TranS7112,"Toiletries, Magazine, Gum, Batteries, Milk"
+TranS7113,"Toiletries, Energy Drinks, Soft Drinks"
+TranS7114,"Toiletries, Snacks, Magazine, Cigarettes"
+TranS7115,"Batteries, Energy Drinks, Soft Drinks, Cigarettes, Toiletries"
+TranS7116,"Candy, Snacks, Magazine"
+TranS7117,"Snacks, Gum, Energy Drinks, Batteries"
+TranS7118,"Soft Drinks, Toiletries, Gum, Magazine, Energy Drinks"
+TranS7119,Snacks
+TranS7120,"Snacks, Batteries, Gum"
+TranS7121,"Soft Drinks, Snacks"
+TranS7122,Toiletries
+TranS7123,"Milk, Magazine, Batteries, Gum, Toiletries"
+TranS7124,"Cigarettes, Toiletries, Magazine"
+TranS7125,Energy Drinks
+TranS7126,"Cigarettes, Milk, Candy, Gum"
+TranS7127,"Energy Drinks, Candy, Milk, Magazine, Snacks"
+TranS7128,"Soft Drinks, Candy, Batteries, Toiletries, Milk"
+TranS7129,Soft Drinks
+TranS7130,Snacks
+TranS7131,"Energy Drinks, Candy, Milk, Cigarettes, Soft Drinks"
+TranS7132,"Energy Drinks, Magazine, Toiletries, Milk"
+TranS7133,"Candy, Energy Drinks, Cigarettes"
+TranS7134,"Energy Drinks, Magazine, Batteries"
+TranS7135,"Cigarettes, Batteries, Gum"
+TranS7136,"Cigarettes, Batteries, Snacks, Energy Drinks, Toiletries"
+TranS7137,"Milk, Soft Drinks, Batteries, Candy"
+TranS7138,"Energy Drinks, Gum"
+TranS7139,"Toiletries, Soft Drinks"
+TranS7140,"Energy Drinks, Magazine"
+TranS7141,"Batteries, Magazine, Candy"
+TranS7142,"Candy, Soft Drinks"
+TranS7143,"Batteries, Toiletries, Gum, Candy"
+TranS7144,"Soft Drinks, Cigarettes, Snacks, Candy"
+TranS7145,"Candy, Soft Drinks"
+TranS7146,Energy Drinks
+TranS7147,"Energy Drinks, Cigarettes, Magazine, Gum, Snacks"
+TranS7148,Magazine
+TranS7149,"Cigarettes, Milk, Toiletries"
+TranS7150,"Snacks, Toiletries, Candy"
+TranS7151,"Energy Drinks, Gum, Toiletries, Candy, Batteries"
+TranS7152,"Energy Drinks, Cigarettes"
+TranS7153,"Candy, Snacks, Soft Drinks, Batteries"
+TranS7154,"Energy Drinks, Milk, Snacks"
+TranS7155,"Milk, Batteries, Snacks, Energy Drinks"
+TranS7156,"Soft Drinks, Cigarettes"
+TranS7157,"Soft Drinks, Gum, Energy Drinks"
+TranS7158,"Candy, Toiletries"
+TranS7159,"Batteries, Gum, Snacks, Energy Drinks"
+TranS7160,"Energy Drinks, Gum, Batteries"
+TranS7161,"Gum, Cigarettes"
+TranS7162,"Soft Drinks, Milk"
+TranS7163,"Candy, Energy Drinks, Snacks"
+TranS7164,"Gum, Toiletries, Energy Drinks"
+TranS7165,Candy
+TranS7166,"Milk, Batteries, Energy Drinks, Magazine, Gum"
+TranS7167,"Energy Drinks, Toiletries, Snacks, Soft Drinks, Candy"
+TranS7168,"Cigarettes, Milk, Magazine"
+TranS7169,"Soft Drinks, Magazine, Batteries"
+TranS7170,Batteries
+TranS7171,"Batteries, Milk"
+TranS7172,"Gum, Milk, Batteries"
+TranS7173,"Cigarettes, Batteries, Candy, Gum"
+TranS7174,"Gum, Toiletries, Candy, Milk, Magazine"
+TranS7175,Snacks
+TranS7176,Batteries
+TranS7177,Soft Drinks
+TranS7178,"Batteries, Soft Drinks, Cigarettes"
+TranS7179,"Energy Drinks, Soft Drinks, Magazine, Cigarettes, Gum"
+TranS7180,"Batteries, Snacks, Soft Drinks, Gum"
+TranS7181,Magazine
+TranS7182,"Soft Drinks, Cigarettes"
+TranS7183,"Soft Drinks, Energy Drinks, Candy"
+TranS7184,"Magazine, Cigarettes, Batteries, Snacks"
+TranS7185,"Energy Drinks, Batteries"
+TranS7186,"Milk, Magazine, Soft Drinks"
+TranS7187,"Toiletries, Snacks, Milk, Magazine"
+TranS7188,"Snacks, Gum"
+TranS7189,"Soft Drinks, Cigarettes, Gum"
+TranS7190,"Candy, Cigarettes, Gum, Magazine, Soft Drinks"
+TranS7191,"Magazine, Gum, Soft Drinks, Candy, Snacks"
+TranS7192,"Snacks, Magazine"
+TranS7193,"Milk, Batteries, Gum"
+TranS7194,Magazine
+TranS7195,Milk
+TranS7196,"Milk, Snacks, Soft Drinks, Candy, Gum"
+TranS7197,"Toiletries, Snacks"
+TranS7198,"Toiletries, Candy, Batteries, Milk"
+TranS7199,"Candy, Cigarettes, Milk"
+TranS7200,"Batteries, Gum, Toiletries, Snacks, Magazine"
+TranS7201,"Candy, Batteries, Energy Drinks, Milk, Toiletries"
+TranS7202,"Candy, Magazine, Snacks, Soft Drinks, Gum"
+TranS7203,"Batteries, Candy"
+TranS7204,"Candy, Toiletries, Magazine"
+TranS7205,"Gum, Candy, Cigarettes"
+TranS7206,"Soft Drinks, Cigarettes, Snacks, Batteries, Milk"
+TranS7207,"Milk, Energy Drinks, Gum, Cigarettes, Toiletries"
+TranS7208,"Cigarettes, Milk, Batteries, Snacks, Candy"
+TranS7209,"Milk, Batteries, Candy"
+TranS7210,"Candy, Milk"
+TranS7211,Candy
+TranS7212,"Snacks, Batteries, Gum, Magazine"
+TranS7213,"Soft Drinks, Cigarettes, Batteries"
+TranS7214,"Milk, Toiletries"
+TranS7215,Soft Drinks
+TranS7216,"Cigarettes, Snacks, Magazine, Energy Drinks, Gum"
+TranS7217,"Batteries, Energy Drinks, Cigarettes, Candy, Gum"
+TranS7218,"Milk, Snacks, Soft Drinks"
+TranS7219,"Toiletries, Candy"
+TranS7220,"Toiletries, Candy, Gum"
+TranS7221,"Candy, Batteries, Magazine"
+TranS7222,"Candy, Toiletries, Soft Drinks, Gum, Magazine"
+TranS7223,"Toiletries, Milk, Snacks"
+TranS7224,"Candy, Toiletries, Snacks"
+TranS7225,"Milk, Gum"
+TranS7226,"Energy Drinks, Gum, Soft Drinks, Snacks"
+TranS7227,"Cigarettes, Milk"
+TranS7228,Candy
+TranS7229,"Magazine, Soft Drinks"
+TranS7230,"Batteries, Soft Drinks, Candy"
+TranS7231,Candy
+TranS7232,"Gum, Toiletries"
+TranS7233,"Batteries, Toiletries, Energy Drinks, Candy"
+TranS7234,"Gum, Energy Drinks, Cigarettes, Snacks, Toiletries"
+TranS7235,"Magazine, Candy, Cigarettes"
+TranS7236,"Soft Drinks, Toiletries"
+TranS7237,Candy
+TranS7238,Milk
+TranS7239,"Toiletries, Energy Drinks, Snacks, Magazine"
+TranS7240,Batteries
+TranS7241,"Energy Drinks, Milk"
+TranS7242,"Cigarettes, Batteries"
+TranS7243,"Toiletries, Snacks, Gum"
+TranS7244,"Soft Drinks, Candy, Toiletries"
+TranS7245,"Cigarettes, Toiletries"
+TranS7246,Batteries
+TranS7247,"Cigarettes, Candy"
+TranS7248,Batteries
+TranS7249,Milk
+TranS7250,"Energy Drinks, Soft Drinks, Gum, Magazine"
+TranS7251,"Snacks, Candy, Energy Drinks"
+TranS7252,"Batteries, Gum, Toiletries"
+TranS7253,"Snacks, Milk"
+TranS7254,"Snacks, Cigarettes, Batteries, Candy, Soft Drinks"
+TranS7255,"Magazine, Milk"
+TranS7256,"Gum, Milk"
+TranS7257,Magazine
+TranS7258,Candy
+TranS7259,"Magazine, Cigarettes, Milk, Snacks, Toiletries"
+TranS7260,"Energy Drinks, Cigarettes, Gum, Magazine"
+TranS7261,"Snacks, Magazine, Energy Drinks"
+TranS7262,Gum
+TranS7263,"Toiletries, Magazine"
+TranS7264,Milk
+TranS7265,Cigarettes
+TranS7266,"Energy Drinks, Gum, Toiletries, Snacks, Candy"
+TranS7267,"Magazine, Soft Drinks, Snacks, Gum"
+TranS7268,"Milk, Batteries"
+TranS7269,"Energy Drinks, Gum, Cigarettes, Soft Drinks, Snacks"
+TranS7270,"Gum, Magazine"
+TranS7271,"Soft Drinks, Snacks"
+TranS7272,"Cigarettes, Milk, Magazine, Batteries"
+TranS7273,Batteries
+TranS7274,"Magazine, Candy, Toiletries, Energy Drinks, Gum"
+TranS7275,Milk
+TranS7276,"Energy Drinks, Milk, Batteries, Toiletries, Magazine"
+TranS7277,"Snacks, Cigarettes"
+TranS7278,"Gum, Milk, Soft Drinks, Toiletries, Snacks"
+TranS7279,"Batteries, Energy Drinks, Milk, Gum"
+TranS7280,"Gum, Soft Drinks"
+TranS7281,"Batteries, Cigarettes, Milk"
+TranS7282,"Candy, Milk, Gum, Toiletries"
+TranS7283,"Batteries, Energy Drinks, Snacks"
+TranS7284,"Candy, Milk, Soft Drinks, Batteries, Cigarettes"
+TranS7285,"Soft Drinks, Cigarettes"
+TranS7286,"Soft Drinks, Snacks, Candy, Milk, Toiletries"
+TranS7287,"Milk, Soft Drinks"
+TranS7288,"Toiletries, Magazine, Gum, Soft Drinks"
+TranS7289,"Cigarettes, Energy Drinks, Gum, Toiletries, Candy"
+TranS7290,"Cigarettes, Milk, Energy Drinks, Toiletries, Batteries"
+TranS7291,Energy Drinks
+TranS7292,"Soft Drinks, Batteries, Snacks, Milk, Cigarettes"
+TranS7293,Candy
+TranS7294,"Batteries, Toiletries, Energy Drinks"
+TranS7295,"Cigarettes, Milk, Magazine, Batteries"
+TranS7296,"Candy, Soft Drinks, Energy Drinks, Toiletries, Snacks"
+TranS7297,"Soft Drinks, Gum, Energy Drinks, Toiletries"
+TranS7298,"Toiletries, Magazine, Gum"
+TranS7299,"Batteries, Soft Drinks"
+TranS7300,Toiletries
+TranS7301,"Toiletries, Milk, Magazine, Soft Drinks, Energy Drinks"
+TranS7302,"Snacks, Milk, Batteries"
+TranS7303,"Candy, Magazine, Soft Drinks"
+TranS7304,Toiletries
+TranS7305,"Candy, Toiletries, Batteries, Milk"
+TranS7306,"Magazine, Soft Drinks, Candy, Cigarettes, Toiletries"
+TranS7307,Magazine
+TranS7308,"Toiletries, Gum, Milk"
+TranS7309,"Cigarettes, Candy, Milk, Snacks"
+TranS7310,"Cigarettes, Batteries, Magazine, Candy, Toiletries"
+TranS7311,"Magazine, Snacks"
+TranS7312,"Batteries, Snacks"
+TranS7313,"Snacks, Gum"
+TranS7314,"Magazine, Batteries, Toiletries"
+TranS7315,"Toiletries, Snacks, Energy Drinks, Soft Drinks, Cigarettes"
+TranS7316,"Soft Drinks, Snacks, Toiletries, Milk, Batteries"
+TranS7317,"Milk, Soft Drinks, Cigarettes"
+TranS7318,"Cigarettes, Magazine"
+TranS7319,"Milk, Cigarettes, Candy, Batteries"
+TranS7320,"Milk, Magazine, Cigarettes"
+TranS7321,Soft Drinks
+TranS7322,"Toiletries, Gum, Cigarettes, Soft Drinks, Energy Drinks"
+TranS7323,"Batteries, Toiletries, Milk"
+TranS7324,"Gum, Batteries, Candy"
+TranS7325,"Magazine, Milk, Gum, Batteries"
+TranS7326,"Magazine, Gum, Milk, Cigarettes"
+TranS7327,"Candy, Batteries"
+TranS7328,"Batteries, Soft Drinks, Magazine, Milk"
+TranS7329,Milk
+TranS7330,"Cigarettes, Energy Drinks"
+TranS7331,"Toiletries, Magazine, Cigarettes, Batteries, Milk"
+TranS7332,"Soft Drinks, Magazine, Cigarettes"
+TranS7333,"Energy Drinks, Soft Drinks, Gum"
+TranS7334,"Soft Drinks, Magazine"
+TranS7335,"Soft Drinks, Batteries, Cigarettes, Milk, Snacks"
+TranS7336,"Soft Drinks, Milk, Magazine"
+TranS7337,"Magazine, Soft Drinks, Snacks, Batteries, Toiletries"
+TranS7338,Magazine
+TranS7339,"Cigarettes, Energy Drinks, Milk, Snacks, Magazine"
+TranS7340,"Toiletries, Candy, Cigarettes, Milk"
+TranS7341,"Batteries, Milk, Cigarettes"
+TranS7342,"Snacks, Soft Drinks, Toiletries"
+TranS7343,"Milk, Cigarettes, Magazine"
+TranS7344,"Gum, Candy, Batteries, Cigarettes"
+TranS7345,"Energy Drinks, Gum, Magazine, Soft Drinks"
+TranS7346,"Candy, Toiletries"
+TranS7347,"Candy, Magazine"
+TranS7348,"Gum, Batteries, Soft Drinks"
+TranS7349,"Batteries, Snacks, Energy Drinks, Candy, Toiletries"
+TranS7350,"Magazine, Energy Drinks"
+TranS7351,Snacks
+TranS7352,Toiletries
+TranS7353,"Magazine, Soft Drinks, Toiletries, Cigarettes"
+TranS7354,"Soft Drinks, Energy Drinks, Magazine, Gum"
+TranS7355,"Gum, Soft Drinks, Energy Drinks, Magazine"
+TranS7356,"Candy, Batteries"
+TranS7357,"Snacks, Soft Drinks, Batteries"
+TranS7358,"Soft Drinks, Milk"
+TranS7359,"Energy Drinks, Batteries, Gum, Toiletries"
+TranS7360,Snacks
+TranS7361,"Magazine, Gum, Snacks, Soft Drinks, Milk"
+TranS7362,Cigarettes
+TranS7363,"Snacks, Milk"
+TranS7364,"Magazine, Soft Drinks, Cigarettes, Batteries, Candy"
+TranS7365,Snacks
+TranS7366,"Batteries, Gum, Magazine, Milk, Candy"
+TranS7367,"Batteries, Candy, Snacks"
+TranS7368,"Gum, Milk, Toiletries, Candy"
+TranS7369,"Gum, Energy Drinks"
+TranS7370,"Candy, Toiletries"
+TranS7371,"Gum, Candy, Magazine, Energy Drinks"
+TranS7372,Cigarettes
+TranS7373,"Snacks, Milk, Cigarettes, Batteries, Candy"
+TranS7374,"Energy Drinks, Snacks, Soft Drinks"
+TranS7375,Milk
+TranS7376,Milk
+TranS7377,"Candy, Gum, Magazine, Energy Drinks, Snacks"
+TranS7378,"Toiletries, Energy Drinks, Gum"
+TranS7379,"Toiletries, Cigarettes, Energy Drinks"
+TranS7380,"Magazine, Milk, Batteries, Candy, Snacks"
+TranS7381,"Cigarettes, Batteries, Milk, Soft Drinks"
+TranS7382,"Gum, Magazine, Milk"
+TranS7383,"Snacks, Candy"
+TranS7384,"Toiletries, Cigarettes, Candy"
+TranS7385,Energy Drinks
+TranS7386,"Candy, Toiletries, Snacks, Milk, Magazine"
+TranS7387,"Magazine, Candy, Soft Drinks, Gum"
+TranS7388,"Milk, Soft Drinks"
+TranS7389,"Snacks, Soft Drinks"
+TranS7390,"Magazine, Gum, Cigarettes"
+TranS7391,"Cigarettes, Magazine, Batteries, Energy Drinks"
+TranS7392,Milk
+TranS7393,"Milk, Gum"
+TranS7394,"Candy, Snacks, Magazine, Gum, Milk"
+TranS7395,Magazine
+TranS7396,"Energy Drinks, Cigarettes, Toiletries, Gum, Milk"
+TranS7397,Candy
+TranS7398,"Toiletries, Magazine, Candy"
+TranS7399,"Gum, Soft Drinks, Milk, Snacks"
+TranS7400,"Snacks, Batteries"
+TranS7401,Snacks
+TranS7402,"Magazine, Candy"
+TranS7403,Milk
+TranS7404,"Gum, Milk, Cigarettes"
+TranS7405,Energy Drinks
+TranS7406,Batteries
+TranS7407,"Energy Drinks, Soft Drinks, Snacks"
+TranS7408,"Candy, Energy Drinks, Batteries, Soft Drinks, Magazine"
+TranS7409,Snacks
+TranS7410,"Soft Drinks, Snacks, Milk"
+TranS7411,"Magazine, Batteries, Gum"
+TranS7412,"Snacks, Milk"
+TranS7413,Toiletries
+TranS7414,"Toiletries, Cigarettes, Batteries, Milk"
+TranS7415,"Candy, Milk, Snacks, Cigarettes, Magazine"
+TranS7416,"Milk, Batteries"
+TranS7417,"Candy, Gum, Magazine, Snacks"
+TranS7418,"Batteries, Soft Drinks, Milk, Cigarettes, Toiletries"
+TranS7419,Energy Drinks
+TranS7420,"Gum, Cigarettes, Energy Drinks, Snacks, Milk"
+TranS7421,"Candy, Gum, Snacks, Magazine"
+TranS7422,"Energy Drinks, Toiletries, Candy"
+TranS7423,"Soft Drinks, Energy Drinks, Gum, Snacks"
+TranS7424,Snacks
+TranS7425,"Toiletries, Magazine, Energy Drinks, Snacks"
+TranS7426,"Batteries, Gum"
+TranS7427,Batteries
+TranS7428,"Cigarettes, Magazine, Soft Drinks, Toiletries"
+TranS7429,"Magazine, Gum, Snacks"
+TranS7430,Soft Drinks
+TranS7431,"Batteries, Energy Drinks, Milk, Candy"
+TranS7432,"Gum, Batteries"
+TranS7433,"Snacks, Gum"
+TranS7434,"Energy Drinks, Magazine, Cigarettes, Batteries, Gum"
+TranS7435,"Magazine, Candy"
+TranS7436,"Magazine, Soft Drinks, Toiletries, Gum, Candy"
+TranS7437,"Snacks, Gum"
+TranS7438,"Toiletries, Candy"
+TranS7439,Milk
+TranS7440,"Snacks, Toiletries"
+TranS7441,"Batteries, Candy"
+TranS7442,"Milk, Soft Drinks, Candy, Energy Drinks"
+TranS7443,"Candy, Soft Drinks, Energy Drinks, Milk, Gum"
+TranS7444,"Milk, Magazine, Toiletries, Energy Drinks"
+TranS7445,"Batteries, Candy, Toiletries"
+TranS7446,Milk
+TranS7447,"Toiletries, Energy Drinks, Milk, Batteries, Snacks"
+TranS7448,"Snacks, Cigarettes, Batteries, Gum"
+TranS7449,"Gum, Cigarettes, Milk"
+TranS7450,"Candy, Energy Drinks, Soft Drinks, Batteries, Milk"
+TranS7451,"Soft Drinks, Snacks"
+TranS7452,"Candy, Energy Drinks"
+TranS7453,Soft Drinks
+TranS7454,"Batteries, Gum"
+TranS7455,"Batteries, Gum, Toiletries, Cigarettes"
+TranS7456,"Cigarettes, Candy, Gum, Batteries"
+TranS7457,"Candy, Energy Drinks, Milk, Gum"
+TranS7458,"Cigarettes, Batteries, Milk, Toiletries"
+TranS7459,"Snacks, Candy, Soft Drinks"
+TranS7460,Magazine
+TranS7461,"Cigarettes, Batteries, Energy Drinks, Gum, Candy"
+TranS7462,"Snacks, Toiletries, Milk, Cigarettes"
+TranS7463,"Gum, Candy, Batteries"
+TranS7464,"Magazine, Soft Drinks"
+TranS7465,"Gum, Magazine, Energy Drinks, Toiletries, Candy"
+TranS7466,"Batteries, Magazine"
+TranS7467,Energy Drinks
+TranS7468,"Batteries, Soft Drinks, Gum"
+TranS7469,"Milk, Toiletries"
+TranS7470,Energy Drinks
+TranS7471,"Magazine, Gum"
+TranS7472,"Cigarettes, Energy Drinks"
+TranS7473,"Gum, Milk, Cigarettes"
+TranS7474,"Candy, Energy Drinks"
+TranS7475,"Magazine, Snacks, Energy Drinks"
+TranS7476,Snacks
+TranS7477,"Energy Drinks, Magazine, Cigarettes, Toiletries"
+TranS7478,"Magazine, Soft Drinks, Candy, Gum, Milk"
+TranS7479,"Cigarettes, Milk"
+TranS7480,Magazine
+TranS7481,Gum
+TranS7482,"Batteries, Candy, Magazine"
+TranS7483,"Magazine, Energy Drinks"
+TranS7484,"Soft Drinks, Gum, Magazine, Batteries"
+TranS7485,Snacks
+TranS7486,"Batteries, Magazine, Snacks"
+TranS7487,"Milk, Energy Drinks, Cigarettes, Magazine"
+TranS7488,"Milk, Cigarettes, Energy Drinks, Soft Drinks"
+TranS7489,"Energy Drinks, Milk, Gum, Toiletries, Candy"
+TranS7490,"Soft Drinks, Magazine, Milk, Snacks, Batteries"
+TranS7491,Energy Drinks
+TranS7492,Gum
+TranS7493,Snacks
+TranS7494,"Cigarettes, Energy Drinks"
+TranS7495,"Candy, Energy Drinks, Milk, Toiletries, Batteries"
+TranS7496,"Cigarettes, Magazine, Energy Drinks"
+TranS7497,"Energy Drinks, Gum, Soft Drinks"
+TranS7498,"Milk, Snacks, Energy Drinks"
+TranS7499,"Toiletries, Milk, Batteries, Cigarettes, Soft Drinks"
+TranS7500,"Toiletries, Cigarettes"
+TranS7501,"Toiletries, Cigarettes, Gum, Magazine, Milk"
+TranS7502,"Candy, Milk, Cigarettes, Energy Drinks, Magazine"
+TranS7503,"Toiletries, Magazine"
+TranS7504,"Candy, Magazine, Soft Drinks"
+TranS7505,"Cigarettes, Milk"
+TranS7506,"Soft Drinks, Magazine, Batteries, Cigarettes"
+TranS7507,"Candy, Cigarettes"
+TranS7508,Milk
+TranS7509,"Batteries, Snacks, Magazine"
+TranS7510,"Candy, Gum, Milk, Batteries"
+TranS7511,Energy Drinks
+TranS7512,"Gum, Cigarettes, Soft Drinks, Magazine"
+TranS7513,"Energy Drinks, Batteries, Toiletries"
+TranS7514,"Candy, Milk, Energy Drinks, Cigarettes, Gum"
+TranS7515,"Magazine, Milk"
+TranS7516,Magazine
+TranS7517,Snacks
+TranS7518,"Gum, Snacks"
+TranS7519,"Magazine, Toiletries"
+TranS7520,Batteries
+TranS7521,"Soft Drinks, Candy, Gum, Milk, Batteries"
+TranS7522,"Candy, Magazine, Soft Drinks"
+TranS7523,"Magazine, Gum, Milk, Energy Drinks, Soft Drinks"
+TranS7524,"Candy, Snacks, Magazine"
+TranS7525,"Milk, Batteries, Energy Drinks"
+TranS7526,"Candy, Gum, Soft Drinks, Cigarettes, Batteries"
+TranS7527,"Milk, Candy, Magazine, Snacks, Soft Drinks"
+TranS7528,"Cigarettes, Snacks, Gum, Batteries"
+TranS7529,"Snacks, Candy, Batteries, Magazine"
+TranS7530,"Energy Drinks, Cigarettes"
+TranS7531,Soft Drinks
+TranS7532,Soft Drinks
+TranS7533,"Batteries, Candy, Soft Drinks, Magazine, Energy Drinks"
+TranS7534,Toiletries
+TranS7535,"Gum, Magazine, Batteries"
+TranS7536,"Batteries, Toiletries, Milk, Candy"
+TranS7537,"Batteries, Soft Drinks, Cigarettes, Snacks"
+TranS7538,"Milk, Magazine, Cigarettes, Energy Drinks, Toiletries"
+TranS7539,Toiletries
+TranS7540,"Soft Drinks, Candy, Gum, Toiletries"
+TranS7541,"Milk, Snacks"
+TranS7542,"Toiletries, Milk, Soft Drinks, Snacks, Magazine"
+TranS7543,"Snacks, Candy, Soft Drinks, Energy Drinks, Cigarettes"
+TranS7544,"Magazine, Snacks"
+TranS7545,"Cigarettes, Toiletries"
+TranS7546,"Toiletries, Candy"
+TranS7547,"Soft Drinks, Energy Drinks, Snacks"
+TranS7548,"Magazine, Cigarettes, Batteries, Soft Drinks"
+TranS7549,"Energy Drinks, Snacks, Soft Drinks"
+TranS7550,"Magazine, Milk, Batteries"
+TranS7551,"Energy Drinks, Cigarettes, Batteries"
+TranS7552,"Soft Drinks, Milk"
+TranS7553,"Batteries, Snacks"
+TranS7554,"Gum, Cigarettes"
+TranS7555,"Candy, Gum, Batteries, Milk, Cigarettes"
+TranS7556,"Snacks, Batteries, Candy, Soft Drinks"
+TranS7557,"Batteries, Soft Drinks"
+TranS7558,"Milk, Gum, Cigarettes, Candy, Batteries"
+TranS7559,Cigarettes
+TranS7560,"Cigarettes, Gum, Soft Drinks, Milk, Snacks"
+TranS7561,Cigarettes
+TranS7562,"Candy, Milk, Toiletries"
+TranS7563,"Energy Drinks, Milk, Toiletries"
+TranS7564,"Candy, Gum, Cigarettes"
+TranS7565,"Batteries, Cigarettes"
+TranS7566,"Energy Drinks, Snacks, Candy"
+TranS7567,"Cigarettes, Energy Drinks"
+TranS7568,Milk
+TranS7569,"Toiletries, Batteries, Cigarettes"
+TranS7570,"Batteries, Milk"
+TranS7571,"Magazine, Soft Drinks, Batteries, Candy, Toiletries"
+TranS7572,Magazine
+TranS7573,"Magazine, Soft Drinks, Cigarettes, Milk"
+TranS7574,"Cigarettes, Soft Drinks, Energy Drinks"
+TranS7575,"Snacks, Magazine"
+TranS7576,Magazine
+TranS7577,"Gum, Magazine, Cigarettes"
+TranS7578,Magazine
+TranS7579,"Cigarettes, Energy Drinks"
+TranS7580,"Toiletries, Snacks, Soft Drinks"
+TranS7581,"Toiletries, Milk, Batteries, Snacks, Magazine"
+TranS7582,"Cigarettes, Milk, Toiletries, Gum, Magazine"
+TranS7583,Cigarettes
+TranS7584,"Toiletries, Milk, Energy Drinks"
+TranS7585,"Candy, Gum"
+TranS7586,"Milk, Magazine, Toiletries, Soft Drinks, Gum"
+TranS7587,"Magazine, Candy, Batteries, Toiletries"
+TranS7588,Cigarettes
+TranS7589,Toiletries
+TranS7590,"Soft Drinks, Cigarettes, Candy, Batteries"
+TranS7591,"Batteries, Soft Drinks, Candy"
+TranS7592,"Candy, Batteries, Milk, Soft Drinks, Magazine"
+TranS7593,"Soft Drinks, Snacks, Gum, Magazine"
+TranS7594,Snacks
+TranS7595,"Batteries, Candy"
+TranS7596,"Gum, Energy Drinks, Cigarettes, Batteries"
+TranS7597,Candy
+TranS7598,"Soft Drinks, Snacks"
+TranS7599,"Toiletries, Energy Drinks"
+TranS7600,Magazine
+TranS7601,Gum
+TranS7602,"Candy, Milk"
+TranS7603,"Gum, Milk, Energy Drinks, Toiletries"
+TranS7604,"Candy, Cigarettes, Energy Drinks, Milk, Magazine"
+TranS7605,"Magazine, Toiletries"
+TranS7606,Gum
+TranS7607,"Milk, Gum, Magazine"
+TranS7608,"Magazine, Toiletries, Soft Drinks, Energy Drinks"
+TranS7609,"Candy, Soft Drinks"
+TranS7610,"Magazine, Batteries, Energy Drinks, Cigarettes"
+TranS7611,"Cigarettes, Snacks, Soft Drinks, Gum"
+TranS7612,"Magazine, Toiletries"
+TranS7613,Magazine
+TranS7614,"Soft Drinks, Toiletries, Candy, Gum, Energy Drinks"
+TranS7615,"Milk, Energy Drinks"
+TranS7616,"Milk, Cigarettes, Snacks, Gum, Candy"
+TranS7617,"Milk, Candy, Magazine, Gum, Toiletries"
+TranS7618,"Toiletries, Energy Drinks"
+TranS7619,"Milk, Snacks"
+TranS7620,"Snacks, Gum, Cigarettes, Candy, Milk"
+TranS7621,"Soft Drinks, Cigarettes, Milk, Batteries"
+TranS7622,Energy Drinks
+TranS7623,"Toiletries, Cigarettes, Energy Drinks"
+TranS7624,Snacks
+TranS7625,"Snacks, Energy Drinks"
+TranS7626,Snacks
+TranS7627,"Snacks, Magazine, Gum, Milk"
+TranS7628,"Milk, Snacks"
+TranS7629,"Cigarettes, Magazine"
+TranS7630,"Cigarettes, Energy Drinks, Soft Drinks, Snacks"
+TranS7631,"Candy, Milk, Batteries"
+TranS7632,"Toiletries, Batteries"
+TranS7633,Candy
+TranS7634,"Milk, Candy, Gum"
+TranS7635,"Batteries, Milk, Magazine, Gum, Snacks"
+TranS7636,"Magazine, Milk, Batteries, Cigarettes"
+TranS7637,"Candy, Batteries"
+TranS7638,"Magazine, Gum, Snacks, Candy"
+TranS7639,"Cigarettes, Milk, Magazine, Batteries"
+TranS7640,"Gum, Batteries, Energy Drinks, Milk, Magazine"
+TranS7641,"Magazine, Candy, Gum, Milk"
+TranS7642,"Cigarettes, Batteries, Gum, Magazine, Soft Drinks"
+TranS7643,"Milk, Snacks, Soft Drinks"
+TranS7644,"Toiletries, Gum, Batteries, Milk"
+TranS7645,"Magazine, Energy Drinks, Cigarettes, Milk, Candy"
+TranS7646,"Energy Drinks, Candy, Cigarettes, Gum"
+TranS7647,"Snacks, Cigarettes, Soft Drinks"
+TranS7648,Candy
+TranS7649,"Batteries, Energy Drinks, Milk, Cigarettes"
+TranS7650,"Batteries, Magazine, Toiletries"
+TranS7651,"Magazine, Gum"
+TranS7652,"Gum, Milk, Batteries, Soft Drinks, Magazine"
+TranS7653,"Energy Drinks, Candy, Gum"
+TranS7654,Candy
+TranS7655,"Cigarettes, Candy, Milk, Gum, Energy Drinks"
+TranS7656,"Soft Drinks, Candy, Milk"
+TranS7657,"Soft Drinks, Cigarettes, Energy Drinks, Snacks, Magazine"
+TranS7658,"Magazine, Snacks, Gum, Toiletries"
+TranS7659,Candy
+TranS7660,Soft Drinks
+TranS7661,"Cigarettes, Snacks, Candy"
+TranS7662,Cigarettes
+TranS7663,"Candy, Energy Drinks, Magazine, Soft Drinks"
+TranS7664,"Energy Drinks, Cigarettes, Soft Drinks"
+TranS7665,"Magazine, Candy"
+TranS7666,Magazine
+TranS7667,"Candy, Soft Drinks, Toiletries, Gum"
+TranS7668,"Energy Drinks, Gum, Soft Drinks"
+TranS7669,Batteries
+TranS7670,"Magazine, Soft Drinks, Toiletries, Candy, Batteries"
+TranS7671,"Snacks, Gum, Magazine, Toiletries, Candy"
+TranS7672,"Batteries, Milk, Soft Drinks, Snacks, Toiletries"
+TranS7673,"Soft Drinks, Milk, Candy, Gum"
+TranS7674,"Magazine, Milk, Cigarettes, Toiletries, Energy Drinks"
+TranS7675,Milk
+TranS7676,Snacks
+TranS7677,"Snacks, Candy, Batteries, Soft Drinks, Cigarettes"
+TranS7678,"Cigarettes, Snacks, Batteries"
+TranS7679,"Gum, Cigarettes, Candy, Snacks"
+TranS7680,"Energy Drinks, Gum, Milk"
+TranS7681,Gum
+TranS7682,"Magazine, Milk, Candy"
+TranS7683,"Milk, Cigarettes, Toiletries"
+TranS7684,"Candy, Cigarettes, Snacks, Soft Drinks, Energy Drinks"
+TranS7685,"Milk, Toiletries, Cigarettes"
+TranS7686,"Magazine, Candy, Toiletries, Snacks"
+TranS7687,"Batteries, Magazine, Candy, Soft Drinks"
+TranS7688,"Batteries, Magazine, Soft Drinks, Energy Drinks, Milk"
+TranS7689,"Soft Drinks, Batteries, Candy, Milk, Toiletries"
+TranS7690,"Gum, Milk"
+TranS7691,Toiletries
+TranS7692,"Toiletries, Batteries"
+TranS7693,Soft Drinks
+TranS7694,"Soft Drinks, Batteries, Toiletries, Gum, Magazine"
+TranS7695,Cigarettes
+TranS7696,Milk
+TranS7697,Gum
+TranS7698,Candy
+TranS7699,"Toiletries, Magazine, Cigarettes, Candy"
+TranS7700,"Magazine, Energy Drinks, Milk, Gum"
+TranS7701,Soft Drinks
+TranS7702,"Toiletries, Batteries, Energy Drinks"
+TranS7703,Milk
+TranS7704,"Soft Drinks, Toiletries, Cigarettes, Energy Drinks"
+TranS7705,"Magazine, Cigarettes, Toiletries, Snacks, Gum"
+TranS7706,"Candy, Gum"
+TranS7707,Toiletries
+TranS7708,"Energy Drinks, Candy"
+TranS7709,"Candy, Milk, Toiletries, Soft Drinks"
+TranS7710,"Milk, Toiletries, Candy, Energy Drinks, Snacks"
+TranS7711,"Magazine, Cigarettes"
+TranS7712,"Gum, Candy, Milk"
+TranS7713,"Gum, Batteries"
+TranS7714,"Gum, Candy, Toiletries, Cigarettes, Soft Drinks"
+TranS7715,"Soft Drinks, Milk, Toiletries"
+TranS7716,"Batteries, Soft Drinks, Cigarettes"
+TranS7717,"Batteries, Energy Drinks, Candy, Toiletries, Milk"
+TranS7718,"Toiletries, Candy"
+TranS7719,"Candy, Gum, Soft Drinks"
+TranS7720,"Candy, Soft Drinks, Batteries, Magazine, Cigarettes"
+TranS7721,"Candy, Batteries"
+TranS7722,"Milk, Candy, Cigarettes"
+TranS7723,"Candy, Snacks, Batteries"
+TranS7724,"Magazine, Energy Drinks"
+TranS7725,"Candy, Energy Drinks, Toiletries"
+TranS7726,Toiletries
+TranS7727,Magazine
+TranS7728,"Milk, Candy, Batteries, Gum, Snacks"
+TranS7729,"Toiletries, Milk"
+TranS7730,Soft Drinks
+TranS7731,"Magazine, Candy"
+TranS7732,"Batteries, Gum, Milk, Soft Drinks"
+TranS7733,"Batteries, Toiletries, Snacks, Milk, Magazine"
+TranS7734,"Energy Drinks, Snacks, Soft Drinks, Milk, Gum"
+TranS7735,"Cigarettes, Energy Drinks, Soft Drinks"
+TranS7736,"Cigarettes, Soft Drinks, Energy Drinks, Snacks, Milk"
+TranS7737,Snacks
+TranS7738,"Energy Drinks, Toiletries"
+TranS7739,"Soft Drinks, Toiletries, Candy, Milk, Energy Drinks"
+TranS7740,"Soft Drinks, Magazine, Gum, Energy Drinks"
+TranS7741,"Cigarettes, Energy Drinks, Magazine, Snacks"
+TranS7742,"Energy Drinks, Cigarettes, Candy"
+TranS7743,"Batteries, Snacks, Soft Drinks, Milk"
+TranS7744,"Gum, Snacks, Cigarettes, Magazine, Batteries"
+TranS7745,"Soft Drinks, Energy Drinks, Toiletries"
+TranS7746,"Snacks, Energy Drinks, Candy, Milk"
+TranS7747,"Magazine, Cigarettes, Soft Drinks"
+TranS7748,"Batteries, Gum, Cigarettes, Toiletries, Snacks"
+TranS7749,"Toiletries, Soft Drinks, Batteries"
+TranS7750,"Candy, Gum, Milk, Toiletries"
+TranS7751,"Soft Drinks, Magazine, Toiletries, Milk, Gum"
+TranS7752,"Energy Drinks, Toiletries"
+TranS7753,Magazine
+TranS7754,"Batteries, Soft Drinks, Candy, Magazine"
+TranS7755,"Milk, Toiletries, Batteries, Gum"
+TranS7756,"Gum, Energy Drinks"
+TranS7757,"Batteries, Candy"
+TranS7758,"Snacks, Batteries, Energy Drinks"
+TranS7759,"Candy, Magazine, Milk, Cigarettes"
+TranS7760,Magazine
+TranS7761,Milk
+TranS7762,"Gum, Magazine, Milk"
+TranS7763,"Magazine, Energy Drinks, Gum"
+TranS7764,"Batteries, Candy, Soft Drinks, Energy Drinks, Gum"
+TranS7765,"Batteries, Candy, Snacks"
+TranS7766,"Energy Drinks, Magazine"
+TranS7767,"Gum, Snacks, Magazine, Energy Drinks, Cigarettes"
+TranS7768,"Snacks, Toiletries, Magazine, Milk, Soft Drinks"
+TranS7769,"Magazine, Gum, Batteries"
+TranS7770,"Candy, Cigarettes, Magazine, Batteries"
+TranS7771,"Toiletries, Soft Drinks, Gum"
+TranS7772,"Cigarettes, Toiletries"
+TranS7773,"Energy Drinks, Magazine, Snacks"
+TranS7774,Candy
+TranS7775,"Magazine, Soft Drinks"
+TranS7776,"Toiletries, Milk, Gum"
+TranS7777,Magazine
+TranS7778,Batteries
+TranS7779,"Candy, Toiletries, Batteries, Snacks, Soft Drinks"
+TranS7780,"Magazine, Cigarettes, Soft Drinks, Milk"
+TranS7781,Gum
+TranS7782,"Energy Drinks, Cigarettes, Batteries"
+TranS7783,"Milk, Magazine, Candy, Batteries"
+TranS7784,"Batteries, Magazine, Candy"
+TranS7785,"Toiletries, Gum, Batteries, Snacks"
+TranS7786,"Snacks, Batteries"
+TranS7787,Gum
+TranS7788,Batteries
+TranS7789,"Cigarettes, Batteries, Milk, Candy, Toiletries"
+TranS7790,"Magazine, Snacks, Gum, Milk"
+TranS7791,"Energy Drinks, Milk, Candy"
+TranS7792,"Cigarettes, Energy Drinks"
+TranS7793,Gum
+TranS7794,"Energy Drinks, Candy, Toiletries"
+TranS7795,"Snacks, Milk"
+TranS7796,"Magazine, Soft Drinks, Cigarettes, Energy Drinks"
+TranS7797,"Energy Drinks, Magazine, Milk, Gum, Batteries"
+TranS7798,"Milk, Energy Drinks, Snacks, Cigarettes"
+TranS7799,"Candy, Energy Drinks, Toiletries"
+TranS7800,"Gum, Candy, Toiletries, Snacks"
+TranS7801,"Candy, Batteries"
+TranS7802,"Energy Drinks, Soft Drinks, Milk, Magazine, Candy"
+TranS7803,"Cigarettes, Energy Drinks, Gum"
+TranS7804,"Snacks, Gum, Batteries"
+TranS7805,Toiletries
+TranS7806,"Energy Drinks, Magazine, Batteries, Snacks, Candy"
+TranS7807,"Milk, Magazine, Candy, Toiletries, Snacks"
+TranS7808,Energy Drinks
+TranS7809,"Magazine, Snacks"
+TranS7810,"Toiletries, Batteries"
+TranS7811,Soft Drinks
+TranS7812,Soft Drinks
+TranS7813,"Magazine, Candy, Cigarettes"
+TranS7814,"Gum, Milk, Cigarettes, Energy Drinks, Soft Drinks"
+TranS7815,"Gum, Cigarettes, Milk"
+TranS7816,"Soft Drinks, Candy"
+TranS7817,"Energy Drinks, Gum, Candy, Snacks, Toiletries"
+TranS7818,"Energy Drinks, Milk, Magazine, Toiletries"
+TranS7819,"Candy, Soft Drinks, Toiletries, Cigarettes, Energy Drinks"
+TranS7820,"Soft Drinks, Snacks"
+TranS7821,"Gum, Snacks"
+TranS7822,"Toiletries, Snacks, Cigarettes, Candy"
+TranS7823,Snacks
+TranS7824,Batteries
+TranS7825,"Energy Drinks, Candy, Gum, Toiletries"
+TranS7826,"Toiletries, Gum, Energy Drinks"
+TranS7827,"Magazine, Gum, Batteries"
+TranS7828,"Magazine, Batteries, Candy, Gum"
+TranS7829,"Magazine, Batteries, Candy, Milk"
+TranS7830,"Cigarettes, Energy Drinks"
+TranS7831,Magazine
+TranS7832,"Candy, Soft Drinks, Batteries, Toiletries"
+TranS7833,"Gum, Candy, Soft Drinks, Magazine, Energy Drinks"
+TranS7834,"Magazine, Batteries, Cigarettes"
+TranS7835,Energy Drinks
+TranS7836,"Magazine, Snacks"
+TranS7837,"Candy, Cigarettes, Magazine, Batteries"
+TranS7838,"Magazine, Soft Drinks, Batteries"
+TranS7839,"Milk, Batteries, Candy, Soft Drinks, Cigarettes"
+TranS7840,"Toiletries, Energy Drinks, Gum"
+TranS7841,Soft Drinks
+TranS7842,"Snacks, Candy, Milk, Soft Drinks"
+TranS7843,Energy Drinks
+TranS7844,"Milk, Snacks, Gum, Energy Drinks"
+TranS7845,Candy
+TranS7846,"Magazine, Gum"
+TranS7847,"Candy, Cigarettes, Batteries, Toiletries"
+TranS7848,"Energy Drinks, Milk, Toiletries"
+TranS7849,"Milk, Batteries, Energy Drinks, Candy"
+TranS7850,"Gum, Soft Drinks, Batteries, Magazine"
+TranS7851,"Gum, Batteries, Magazine, Cigarettes"
+TranS7852,Soft Drinks
+TranS7853,"Milk, Snacks, Toiletries, Batteries, Magazine"
+TranS7854,Soft Drinks
+TranS7855,"Magazine, Milk, Toiletries, Energy Drinks, Gum"
+TranS7856,"Energy Drinks, Candy, Batteries, Cigarettes"
+TranS7857,"Batteries, Energy Drinks, Gum"
+TranS7858,"Gum, Toiletries, Magazine, Batteries, Milk"
+TranS7859,"Batteries, Soft Drinks, Energy Drinks, Gum, Candy"
+TranS7860,"Candy, Batteries, Energy Drinks, Cigarettes, Toiletries"
+TranS7861,"Candy, Energy Drinks, Soft Drinks"
+TranS7862,"Cigarettes, Gum, Batteries"
+TranS7863,"Snacks, Energy Drinks, Cigarettes, Soft Drinks"
+TranS7864,"Gum, Magazine, Batteries, Candy"
+TranS7865,"Batteries, Magazine, Gum, Cigarettes"
+TranS7866,"Gum, Snacks, Toiletries, Candy"
+TranS7867,"Gum, Magazine, Toiletries"
+TranS7868,Milk
+TranS7869,"Soft Drinks, Milk, Snacks"
+TranS7870,"Candy, Magazine, Toiletries, Cigarettes, Soft Drinks"
+TranS7871,"Candy, Gum"
+TranS7872,"Toiletries, Energy Drinks, Batteries"
+TranS7873,Snacks
+TranS7874,"Gum, Candy, Magazine, Energy Drinks"
+TranS7875,Magazine
+TranS7876,"Magazine, Milk, Toiletries, Candy"
+TranS7877,"Gum, Candy, Energy Drinks, Snacks"
+TranS7878,Toiletries
+TranS7879,"Toiletries, Cigarettes, Magazine, Energy Drinks, Gum"
+TranS7880,Toiletries
+TranS7881,"Toiletries, Soft Drinks, Gum"
+TranS7882,"Soft Drinks, Cigarettes, Batteries, Energy Drinks, Milk"
+TranS7883,Batteries
+TranS7884,"Cigarettes, Gum, Soft Drinks, Candy"
+TranS7885,"Soft Drinks, Batteries"
+TranS7886,"Snacks, Milk, Toiletries, Batteries"
+TranS7887,"Snacks, Candy, Energy Drinks, Soft Drinks"
+TranS7888,"Energy Drinks, Batteries, Gum"
+TranS7889,"Milk, Snacks"
+TranS7890,"Candy, Magazine, Cigarettes, Toiletries, Milk"
+TranS7891,"Gum, Snacks, Cigarettes, Magazine, Batteries"
+TranS7892,"Soft Drinks, Snacks, Candy, Milk, Energy Drinks"
+TranS7893,"Candy, Toiletries, Energy Drinks, Magazine, Soft Drinks"
+TranS7894,"Toiletries, Snacks, Milk, Energy Drinks, Candy"
+TranS7895,"Candy, Magazine, Soft Drinks, Toiletries, Batteries"
+TranS7896,"Gum, Batteries, Toiletries"
+TranS7897,"Gum, Milk, Toiletries, Cigarettes"
+TranS7898,"Candy, Magazine, Soft Drinks, Milk"
+TranS7899,Milk
+TranS7900,"Candy, Batteries, Magazine"
+TranS7901,Candy
+TranS7902,"Milk, Magazine, Candy"
+TranS7903,"Toiletries, Cigarettes"
+TranS7904,"Energy Drinks, Gum, Toiletries, Snacks"
+TranS7905,"Milk, Cigarettes"
+TranS7906,"Candy, Cigarettes, Soft Drinks, Magazine, Gum"
+TranS7907,Energy Drinks
+TranS7908,"Toiletries, Snacks"
+TranS7909,"Soft Drinks, Milk, Toiletries, Magazine"
+TranS7910,"Candy, Milk, Batteries, Magazine"
+TranS7911,"Snacks, Gum, Milk, Toiletries"
+TranS7912,Gum
+TranS7913,Toiletries
+TranS7914,"Toiletries, Batteries, Cigarettes"
+TranS7915,Batteries
+TranS7916,"Snacks, Soft Drinks, Candy, Magazine, Toiletries"
+TranS7917,Candy
+TranS7918,"Candy, Batteries"
+TranS7919,"Cigarettes, Gum, Energy Drinks, Snacks, Magazine"
+TranS7920,"Soft Drinks, Milk"
+TranS7921,"Soft Drinks, Toiletries, Batteries, Cigarettes, Gum"
+TranS7922,"Cigarettes, Toiletries"
+TranS7923,"Milk, Soft Drinks"
+TranS7924,Magazine
+TranS7925,"Milk, Toiletries, Soft Drinks, Energy Drinks"
+TranS7926,"Toiletries, Magazine, Soft Drinks"
+TranS7927,"Candy, Toiletries"
+TranS7928,Gum
+TranS7929,"Cigarettes, Gum"
+TranS7930,"Milk, Candy"
+TranS7931,"Milk, Snacks"
+TranS7932,"Cigarettes, Gum, Batteries"
+TranS7933,"Magazine, Batteries, Gum, Energy Drinks"
+TranS7934,"Snacks, Magazine"
+TranS7935,Gum
+TranS7936,"Soft Drinks, Cigarettes, Energy Drinks, Gum"
+TranS7937,"Energy Drinks, Gum, Snacks, Cigarettes"
+TranS7938,"Batteries, Cigarettes, Magazine, Toiletries"
+TranS7939,"Candy, Snacks, Energy Drinks"
+TranS7940,"Gum, Soft Drinks"
+TranS7941,Gum
+TranS7942,Snacks
+TranS7943,"Candy, Magazine, Milk"
+TranS7944,"Milk, Candy, Toiletries, Energy Drinks"
+TranS7945,"Candy, Snacks, Gum"
+TranS7946,"Milk, Batteries, Cigarettes"
+TranS7947,"Snacks, Cigarettes, Milk, Energy Drinks, Soft Drinks"
+TranS7948,"Cigarettes, Energy Drinks, Milk, Gum"
+TranS7949,"Energy Drinks, Cigarettes"
+TranS7950,"Snacks, Candy"
+TranS7951,"Cigarettes, Gum, Soft Drinks"
+TranS7952,"Magazine, Cigarettes"
+TranS7953,"Energy Drinks, Gum, Candy"
+TranS7954,Soft Drinks
+TranS7955,Energy Drinks
+TranS7956,Milk
+TranS7957,Candy
+TranS7958,"Cigarettes, Energy Drinks"
+TranS7959,"Energy Drinks, Soft Drinks"
+TranS7960,"Cigarettes, Gum, Magazine"
+TranS7961,"Soft Drinks, Toiletries, Milk, Snacks"
+TranS7962,"Soft Drinks, Cigarettes"
+TranS7963,"Toiletries, Cigarettes, Gum, Energy Drinks, Magazine"
+TranS7964,Gum
+TranS7965,"Batteries, Candy"
+TranS7966,"Magazine, Milk, Gum"
+TranS7967,"Gum, Soft Drinks"
+TranS7968,"Cigarettes, Gum, Magazine"
+TranS7969,"Candy, Energy Drinks, Cigarettes"
+TranS7970,"Snacks, Batteries, Candy, Cigarettes"
+TranS7971,"Cigarettes, Candy, Toiletries, Batteries, Magazine"
+TranS7972,"Candy, Cigarettes, Snacks, Energy Drinks"
+TranS7973,Milk
+TranS7974,"Cigarettes, Magazine"
+TranS7975,Gum
+TranS7976,"Milk, Snacks, Toiletries, Candy, Gum"
+TranS7977,"Energy Drinks, Milk, Candy, Magazine, Gum"
+TranS7978,"Batteries, Toiletries, Soft Drinks"
+TranS7979,Batteries
+TranS7980,Snacks
+TranS7981,"Cigarettes, Batteries, Candy, Snacks, Magazine"
+TranS7982,"Cigarettes, Milk, Snacks, Energy Drinks"
+TranS7983,"Candy, Cigarettes"
+TranS7984,"Cigarettes, Soft Drinks"
+TranS7985,"Soft Drinks, Candy, Energy Drinks"
+TranS7986,Snacks
+TranS7987,"Toiletries, Milk, Gum"
+TranS7988,"Soft Drinks, Toiletries, Snacks, Candy"
+TranS7989,"Magazine, Batteries"
+TranS7990,"Cigarettes, Energy Drinks, Snacks, Batteries"
+TranS7991,Energy Drinks
+TranS7992,"Milk, Magazine"
+TranS7993,Energy Drinks
+TranS7994,"Toiletries, Energy Drinks, Milk"
+TranS7995,"Soft Drinks, Magazine, Cigarettes"
+TranS7996,Toiletries
+TranS7997,"Candy, Cigarettes"
+TranS7998,"Milk, Candy, Toiletries, Energy Drinks, Cigarettes"
+TranS7999,Snacks
+TranS71000,Snacks
